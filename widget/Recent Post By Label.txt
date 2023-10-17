@@ -1,0 +1,9 @@
+<script type="text/javascript">//<![CDATA[
+var posts_no=4,
+    labelnya="Movie", // Change Movie with Label Post
+    showpoststhumbs=true,
+    showrelease_ostnya=true,
+    thumbwidth=170,
+    thumbheight=110;
+document.write("<script src=/feeds/posts/default/-/"+labelnya+"?alt=json-in-script&callback=rec_postm><\/script>");
+//]]></script>
